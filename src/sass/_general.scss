@@ -1,0 +1,13 @@
+body {
+   @apply bg-background text-main m-0;
+}
+
+h1 {
+  @apply m-0 text-2xxl ml-4 text-white;
+}
+
+section {
+  @apply max-w-[800px] min-h-[500px] mt-10 m-auto bg-white text-left p-12 rounded;
+}
+
+.error { @apply text-pink text-sm }

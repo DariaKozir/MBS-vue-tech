@@ -1,0 +1,7 @@
+label, h2 {
+  @apply text-label block my-4 mx-2 text-base uppercase tracking-wide font-bold;
+};
+
+.input-style {
+  @apply block outline-0 px-2 w-full box-border border-0 border-b-2 border-gray-border text-gray-default;
+}
